@@ -1,20 +1,25 @@
-# 👋 Olá! Eu sou Claudimar Bilis
+# Olá! Eu sou Claudimar Bilis
 
-## 🎯 Sobre Mim
+## Sobre Mim
+
 Desenvolvedor em formação, apaixonado por programação e tecnologia.
 
-## 💻 Tecnologias
+## Tecnologias
+
 - **Linguagens:** Java, HTML, CSS, JavaScript
 - **Aprendendo:** Git, GitHub, POO
 
-## 📂 Principais Projetos
+## Principais Projetos
+
 - [Exercícios Java](https://github.com/ClaudimarBilis/ExerciciosJAVA) - Exercícios práticos
 - [Calculadora](https://github.com/ClaudimarBilis/calculadora.html.css.js) - Projeto com HTML/CSS/JS
 - [Programas Práticos Java](https://github.com/ClaudimarBilis/Programas_PraticosJAVA)
 
-## 🌐 Conecte-se comigo
-- LinkedIn: in./ClaudimarBilis
+## Conecte-se comigo
+
+- LinkedIn: linkedin.com/in/claudimarbilis
 - Email: claudimarbilisdev@gmail.com
 
 ---
-⭐ Sinta-se livre para explorar meus projetos!
+
+Sinta-se livre para explorar meus projetos!
