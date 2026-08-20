@@ -13,8 +13,8 @@ Desenvolvedor em formação, apaixonado por programação e tecnologia.
 - [Programas Práticos Java](https://github.com/ClaudimarBilis/Programas_PraticosJAVA)
 
 ## 🌐 Conecte-se comigo
-- LinkedIn: [seu-link]
-- Email: seu-email@gmail.com
+- LinkedIn: in./ClaudimarBilis
+- Email: claudimarbilisdev@gmail.com
 
 ---
 ⭐ Sinta-se livre para explorar meus projetos!
