@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Claudimar Bilis
 
-<!--
-**ClaudimarBilis/ClaudimarBilis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Sobre Mim
+Desenvolvedor em formação, apaixonado por programação e tecnologia.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+- **Linguagens:** Java, HTML, CSS, JavaScript
+- **Aprendendo:** Git, GitHub, POO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Principais Projetos
+- [Exercícios Java](https://github.com/ClaudimarBilis/ExerciciosJAVA) - Exercícios práticos
+- [Calculadora](https://github.com/ClaudimarBilis/calculadora.html.css.js) - Projeto com HTML/CSS/JS
+- [Programas Práticos Java](https://github.com/ClaudimarBilis/Programas_PraticosJAVA)
+
+## 🌐 Conecte-se comigo
+- LinkedIn: [seu-link]
+- Email: seu-email@gmail.com
+
+---
+⭐ Sinta-se livre para explorar meus projetos!
