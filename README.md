@@ -11,13 +11,13 @@ Desenvolvedor em formação, apaixonado por programação e tecnologia.
 
 ## Principais Projetos
 
-- [Exercícios Java](https://github.com/ClaudimarBilis/ExerciciosJAVA) - Exercícios práticos
-- [Calculadora](https://github.com/ClaudimarBilis/calculadora.html.css.js) - Projeto com HTML/CSS/JS
-- [Programas Práticos Java](https://github.com/ClaudimarBilis/Programas_PraticosJAVA)
+- [Exercícios Java](https://github.com/ClaudimarBilis/ExerciciosJAVA) - Exercícios práticos.
+- [Calculadora](https://github.com/ClaudimarBilis/calculadora.html.css.js) - Projeto com HTML/CSS/JS.
+- [Programas Práticos Java](https://github.com/ClaudimarBilis/Programas_PraticosJAVA) - Exercícios voltados a problemas mais próximos da realidade.
 
 ## Conecte-se comigo
 
-- LinkedIn: linkedin.com/in/claudimarbilis
+- LinkedIn: www.linkedin.com/in/claudimarbilis
 - Email: claudimarbilisdev@gmail.com
 
 ---
