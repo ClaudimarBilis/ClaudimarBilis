@@ -13,7 +13,7 @@ Desenvolvedor em formação, apaixonado por programação e tecnologia.
 
 - [Exercícios Java](https://github.com/ClaudimarBilis/ExerciciosJAVA) - Exercícios práticos.
 - [Calculadora](https://github.com/ClaudimarBilis/calculadora.html.css.js) - Projeto com HTML/CSS/JS.
-- [Programas Práticos Java](https://github.com/ClaudimarBilis/Programas_PraticosJAVA) - Exercícios voltados a problemas mais próximos da realidade.
+- [CRUD em JAVA](https://github.com/ClaudimarBilis/UserRegistrationStudyApplication.java) - Exercício - Criação de um CRUD em JAVA.
 
 ## Conecte-se comigo
 
