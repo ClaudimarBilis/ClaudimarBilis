@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=ClaudimarBilis&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=a78bfa&style=flat" />
 </a>
 <img src="https://img.shields.io/github/followers/ClaudimarBilis?label=Seguidores&style=social" />
-<img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20projetos-brightgreen?style=flat-square" />
+<a href="mailto:claudimarbilisdev@gmail.com"> <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20projetos-brightgreen?style=flat-square" /> </a>
 
 </div>
 
