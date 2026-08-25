@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20Claudimar%20Bilis&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Criador%20de%20coisas%20legais&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20Claudimar%20Bilis&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Sempre%20em%20busca%20de%20conhecimento&descAlignY=62&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Apaixonado+por+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
 
@@ -24,8 +24,8 @@
 
 - Atualmente cursando Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Internacional Uninter;
 - Aprofundando meus conhecimentos em JAVA;
-- Aberto para oportunidades de colaborar em projetos onde possa ampliar meu conhecimento e retribuir da mesma forma;
-- Como me encontrar: claudimarbilisdev@gmail.com
+- Aberto para oportunidades de colaborar em projetos onde possa ampliar meu conhecimento e retribuir da melhor forma;
+- Como me encontrar: claudimarbilisdev@gmail.com <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="20"/>
 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java,html,css,mysql,git,github&theme=dark" />
 
 </div>
 
