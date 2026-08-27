@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<h2 align="center">Tecnologias & Ferramentas</h2>
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center">Estatísticas do GitHub</h2>
 
 <div align="center">
 
@@ -93,5 +93,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<i>⭐️ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!</i>
+<i>Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!</i>
 </div>
