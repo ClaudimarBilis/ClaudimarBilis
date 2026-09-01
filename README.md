@@ -25,7 +25,7 @@
 - Atualmente cursando Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Internacional Uninter;
 - Aprofundando meus conhecimentos em JAVA;
 - Aberto para oportunidades de colaborar em projetos onde possa ampliar meu conhecimento e retribuir da melhor forma;
-- Como me encontrar: claudimarbilisdev@gmail.com <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="20"/>
+- Como me encontrar: claudimarbilisdev@gmail.com
 
 </td>
 </tr>
