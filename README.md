@@ -60,8 +60,13 @@
 <div align="center">
   
 <br>
+
+<a href="https://github.com/ClaudimarBilis/estoque" style="display:inline-block; padding:10px 20px; background:linear-gradient(90deg,#f89820,#f44336); color:#ffffff; font-weight:bold; font-family:sans-serif; text-decoration:none; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.3);"> Sistema de estoque completo </a>
+<br>
+
 <a href="https://github.com/ClaudimarBilis/ExerciciosJAVA" style="display:inline-block; padding:10px 20px; background:linear-gradient(90deg,#f89820,#f44336); color:#ffffff; font-weight:bold; font-family:sans-serif; text-decoration:none; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.3);"> Exercícios JAVA </a>
-<br><br>
+<br>
+
 <a href="https://github.com/ClaudimarBilis/calculadora.html.css.js" style="display:inline-block; padding:10px 20px; background:linear-gradient(90deg,#264de4,#f0db4f); color:#ffffff; font-weight:bold; font-family:sans-serif; text-decoration:none; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.3);"> Calculadora HTML, CSS, JS </a>
 <br>
   
